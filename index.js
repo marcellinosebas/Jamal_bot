@@ -7,8 +7,8 @@ function createBot() {
   reconnecting = false
 
   const bot = mineflayer.createBot({
-    host: 'Philmanto.aternos.me',
-    port: 25084,
+    host: 'marcellinosebastian.aternos.me',
+    port:  60263,
     username: 'Jamal_Bot',
     version: '1.20.1',
     auth: 'offline'
