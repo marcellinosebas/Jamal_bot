@@ -10,7 +10,7 @@ function createBot() {
     host: 'marcellinosebastian.aternos.me',
     port:  60263,
     username: 'Jamal_Bot',
-    version: '26.2',
+    version: '1.20.1',
     auth: 'offline'
   })
 
